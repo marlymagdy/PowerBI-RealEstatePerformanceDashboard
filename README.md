@@ -9,7 +9,6 @@ The dashboard focuses on tracking **revenue growth**, analyzing **top-performing
 
 ## 🖼️ Dashboard Preview
 
-*(Add your dashboard image below)*
 ![Real Estate Dashboard](imgs/Dashboard.png)
 
 ---

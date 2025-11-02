@@ -84,9 +84,5 @@ A series of DAX measures were developed to power key insights and visuals:
 
 ---
 
-## 🚀 Outcome
 
-The **Real Estate Performance Dashboard** transforms raw business data into clear insights — showing which properties drive the most revenue, who the top clients are, and how income changes over time — empowering data-driven decision-making.
-
----
 

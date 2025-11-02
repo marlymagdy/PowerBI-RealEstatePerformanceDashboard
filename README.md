@@ -1,10 +1,7 @@
-Absolutely 👍 here’s the **final README file**, fully formatted and ready for direct copy-paste into GitHub — everything clean, consistent, and professional:
-
----
 
 ## 📊 Project Overview
 
-This Power BI dashboard provides a comprehensive view of **real estate business performance** by connecting multiple datasets — **Client**, **Expense**, **Property**, and **Sales** — to deliver actionable insights across revenue, income, property sales, and client activity.
+This Power BI dashboard provides a comprehensive view of **real estate business performance** by connecting multiple datasets  **Client**, **Expense**, **Property**, and **Sales** to deliver actionable insights across revenue, income, property sales, and client activity.
 
 The dashboard focuses on tracking **revenue growth**, analyzing **top-performing properties**, and visualizing **client contributions** using interactive visuals and DAX-driven KPIs.
 
